@@ -1,5 +1,5 @@
 .griid{
-    background-color: black;
+    background-color: aquawhite;
     display: flex;
  
     
@@ -23,7 +23,6 @@
   
   .inside{
     
-    background-color: rgb(13, 181, 211);
   }
   .items{
     text-align: center;

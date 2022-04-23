@@ -12,10 +12,10 @@ import { MenuItemUnstyled } from "@mui/base";
 const StyledToolbar = styled(Toolbar)({
   display: "flex",
   justifyContent: "space-between",
-  backgroundColor: "lightgray",
+  backgroundColor: "silver",
 });
 const Search = styled("div")(({ theme }) => ({
-  backgroundColor: "white",
+  backgroundColor: "gray",
   padding: "0 10px",
   width: "40%"
 
