@@ -20,21 +20,21 @@ const MensPage = () => {
   const getMensData = (page = 1, Category = null, price = null) => {
     if (!Category && !price) {
       // console.log(page);
-      fetch(`http://localhost:3005/mens?_page=${page}&_limit=9`)
+      fetch(`https://mmyntraclone.herokuapp.com/men?_page=${page}&_limit=9`)
         .then((d) => d.json())
         .then((res) => {
           setLists(res);
         });
       // console.log('Called top');
     } else if (Category !== null) {
-      fetch(`http://localhost:3005/mens?Category=${Category}`)
+      fetch(`https://mmyntraclone.herokuapp.com/men?Category=${Category}`)
         .then((d) => d.json())
         .then((res) => {
           setLists(res);
         });
       // console.log('Called Category');
     } else if (price !== null) {
-      fetch(`http://localhost:3005/mens`)
+      fetch(`https://mmyntraclone.herokuapp.com/men`)
         .then((d) => d.json())
         .then((res) => {
           const x = res.filter(setRange);
