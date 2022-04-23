@@ -16,7 +16,7 @@ export const WomensProduct = () => {
       getWomensData();
     }, [pages]);
     const getWomensData = () => {
-        fetch(`http://localhost:3005/womens?_page=${pages}&_limit=9`)
+        fetch(`https://mmyntraclone.herokuapp.com/womens?_page=${pages}&_limit=9`)
           .then((d) => d.json())
           .then((res) => {
             setWomen(res);
