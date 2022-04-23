@@ -1,0 +1,58 @@
+.griid{
+    background-color: black;
+    display: flex;
+ 
+    
+  }
+  .flux{
+    width:80%;
+  }
+  .containerr{
+    display:grid;
+    grid-template-columns: 30% 30% 30%;
+  
+    padding: 10px;
+    gap: 20px;
+    
+   align-items: center;
+   justify-content: center;
+   
+  
+   
+  }
+  
+  .inside{
+    
+    background-color: rgb(13, 181, 211);
+  }
+  .items{
+    text-align: center;
+    width:380px;
+   
+   
+  }
+  .btn{
+    display:flex;
+    justify-content: space-between;
+    padding: 0px 20px;
+    align-items: center;
+    height: 70px;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    width: 98%;
+  }
+  .back{
+   background-color: antiquewhite;
+  }
+  .btn button{
+    border-radius: 10px;
+    padding: 10px;
+    border:none;
+    background-color:transparent;
+    color:white
+  }
+  .btn button:hover{
+    background-color: aqua;
+  }
+ 
