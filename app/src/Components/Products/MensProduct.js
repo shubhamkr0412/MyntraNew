@@ -36,8 +36,8 @@ const MensProduct = ({ lists, addToCart }) => {
                 <div className="items">
                   {" "}
                   <p>
-                    <span>Add to Cart:</span>
-                    <button onClick={() => addToCart(curr)}>+</button>
+                    
+                    <button onClick={() => addToCart(curr)}>Add to cart</button>
                   </p>
                 </div>
               </div>

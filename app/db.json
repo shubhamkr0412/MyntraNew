@@ -1,262 +1,391 @@
 {
   
-    "mens": [
-      {
-        "id": 1,
-        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1376577/2022/4/18/d335c205-fb51-4e31-b709-b9475a3091c11650284973257RoadsterMenBlackGreyCheckedCasualSustainableShirt1.jpg",
-        "title": "HELLO DESIGN",
-        "price": 300,
-        "Category": "Shirts"
-      },
-      {
-        "id": 2,
-        "img":  "https://assets.ajio.com/medias/sys_master/root/20210403/wR9I/606946fd7cdb8c1f1484121e/aks_couture_pink_embellished_a-line_dress_with_ruffled_panel.jpg",
-        "title": "HELLO DESIGN",
-        "price": 400,
-        "Category": "Jeans"
-      },
-      {
-        "id": 3,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 500,
-        "Category": "Kurta"
-      },
-      {
-        "id": 4,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 600,
-        "Category": "Shirts"
-      },
-      {
-        "id": 5,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 700,
-        "Category": "Jeans"
-      },
-      {
-        "id": 6,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 800,
-        "Category": "Kurta"
-      },
-      {
-        "id": 7,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 900,
-        "Category": "Shirts"
-      },
-      {
-        "id": 8,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 1000,
-        "Category": "Jeans"
-      },
-      {
-        "id": 9,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 1200,
-        "Category": "Kurta"
-      },
-      {
-        "id": 10,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 1300,
-        "Category": "Shirts"
-      },
-      {
-        "id": 11,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 1400,
-        "Category": "Jeans"
-      },
-      {
-        "id": 12,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 1500,
-        "Category": "Kurta"
-      },
-      {
-        "id": 13,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 1600,
-        "Category": "Shirts"
-      },
-      {
-        "id": 14,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 1700,
-        "Category": "Jeans"
-      },
-      {
-        "id": 15,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 1800,
-        "Category": "Kurta"
-      },
-      {
-        "id": 16,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 1900,
-        "Category": "Shirts"
-      },
-      {
-        "id": 17,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 2000,
-        "Category": "Jeans"
-      },
-      {
-        "id": 18,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 1700,
-        "Category": "Kurta"
-      }
-        
-    ],
-    "womens":[
-      {
-        "id": 1,
-        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1376577/2022/4/18/d335c205-fb51-4e31-b709-b9475a3091c11650284973257RoadsterMenBlackGreyCheckedCasualSustainableShirt1.jpg",
-        "title": "HELLO DESIGN",
-        "price": 300,
-        "Category": "Shirts"
-      },
-      {
-        "id": 2,
-        "img":  "https://assets.ajio.com/medias/sys_master/root/20210403/wR9I/606946fd7cdb8c1f1484121e/aks_couture_pink_embellished_a-line_dress_with_ruffled_panel.jpg",
-        "title": "HELLO DESIGN",
-        "price": 400,
-        "Category": "Jeans"
-      },
-      {
-        "id": 3,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 500,
-        "Category": "Kurta"
-      },
-      {
-        "id": 4,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 600,
-        "Category": "Shirts"
-      },
-      {
-        "id": 5,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 700,
-        "Category": "Jeans"
-      },
-      {
-        "id": 6,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 800,
-        "Category": "Kurta"
-      },
-      {
-        "id": 7,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 900,
-        "Category": "Shirts"
-      },
-      {
-        "id": 8,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 1000,
-        "Category": "Jeans"
-      },
-      {
-        "id": 9,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 1200,
-        "Category": "Kurta"
-      },
-      {
-        "id": 10,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 1300,
-        "Category": "Shirts"
-      },
-      {
-        "id": 11,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 1400,
-        "Category": "Jeans"
-      },
-      {
-        "id": 12,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 1500,
-        "Category": "Kurta"
-      },
-      {
-        "id": 13,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 1600,
-        "Category": "Shirts"
-      },
-      {
-        "id": 14,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 1700,
-        "Category": "Jeans"
-      },
-      {
-        "id": 15,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 1800,
-        "Category": "Kurta"
-      },
-      {
-        "id": 16,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 1900,
-        "Category": "Shirts"
-      },
-      {
-        "id": 17,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 2000,
-        "Category": "Jeans"
-      },
-      {
-        "id": 18,
-        "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
-        "title": "HELLO DESIGN",
-        "price": 1700,
-        "Category": "Kurta"
-      }
-    ]
-  
-  
+  "mens": [
+    {
+      "id": 1,
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1376577/2022/4/18/d335c205-fb51-4e31-b709-b9475a3091c11650284973257RoadsterMenBlackGreyCheckedCasualSustainableShirt1.jpg",
+      "title": "HELLO DESIGN",
+      "price": 300,
+      "Category": "Shirts"
+    },
+    {
+      "id": 2,
+      "img":  "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/9951411/2019/8/5/fe1322b7-9e53-4b6e-8423-0a4f5a9e8b4b1565006161882-Roadster-Men-Shirts-8701565006159466-1.jpg",
+      "title": "HELLO 2",
+      "price": 400,
+      "Category": "Shirts"
+    },
+    {
+      "id": 3,
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/2347551/2019/12/3/fb88c67b-d735-48cc-8554-9374a95ba35b1575363237983-HIGHLANDER-Men-White--Light-Blue-Slim-Fit-Striped-Casual-Shi-1.jpg",
+      "title": "HELLO DESIGN",
+      "price": 500,
+      "Category": "Shirts"
+    },
+    {
+      "id": 4,
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/1364628/2016/8/31/11472636737718-Roadster-Men-Blue-Regular-Fit-Printed-Casual-Shirt-6121472636737160-1.jpg",
+      "title": "HELLO DESIGN",
+      "price": 600,
+      "Category": "Shirts"
+    },
+    {
+      "id": 5,
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/2050688/2018/2/5/11517823120338-HIGHLANDER-Men-White-Slim-Fit-Solid-Casual-Shirt-5911517823120124-1.jpg",
+      "title": "HELLO DESIGN",
+      "price": 700,
+      "Category": "Shirts"
+    },
+    {
+      "id": 6,
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/7488103/2019/8/22/acfba45f-8f9c-4b97-b5bc-a909418bdf4c1566454100620-Dennis-Lingo-Men-Green-Slim-Fit-Solid-Casual-Shirt-358156645-3.jpg",
+      "title": "HELLO DESIGN",
+      "price": 800,
+      "Category": "Shirts"
+    },
+    {
+      "id": 7,
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/9162845/2022/3/4/70dc6ac3-3db2-4052-9d92-05dcb8b1df211646370976776-HIGHLANDER-Men-Black-Tapered-Fit-Mid-Rise-Clean-Look-Stretch-6.jpg",
+      "title": "HELLO DESIGN",
+      "price": 900,
+      "Category": "Jeans"
+    },
+    {
+      "id": 8,
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/2477047/2018/4/20/11524217117654-WROGN-Men-Black-Skinny-Fit-Mid-Rise-Clean-Look-Stretchable-Jeans-21524217117458-1.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1000,
+      "Category": "Jeans"
+    },
+    {
+      "id": 9,
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/12983796/2020/12/10/5db71090-81dd-4120-95df-080e7553a2a11607574146971-Mast--Harbour-Men-Jeans-5711607574144255-1.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1200,
+      "Category": "Jeans"
+    },
+    {
+      "id": 10,
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/6832333/2018/9/14/f0e3a9a6-b1d3-426e-9f5c-0350699140c41536926290358-WROGN-Men-Blue-Slim-Fit-Mid-Rise-Clean-Look-Stretchable-Jean-1.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1300,
+      "Category": "Jeans"
+    },
+    {
+      "id": 11,
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/5670018/2018/9/17/5d578199-2c1a-4001-8af6-570311ff43eb1537164174593-Roadster-Men-Blue-Skinny-Fit-Mid-Rise-Mildly-Distressed-Stre-1.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1400,
+      "Category": "Jeans"
+    },
+    {
+      "id": 12,
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/14641122/2022/3/7/254ea8f9-0a82-41b9-b03a-3d167a36862c1646643193052-Mast--Harbour-Men-Blue-Carrot-Light-Fade-Stretchable-Jeans-7-1.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1500,
+      "Category": "Jeans"
+    },
+    {
+      "id": 13,
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/11312628/2020/1/17/551da653-fc10-4645-8957-e2110ba469561579252634270-See-Designs-Men-Blue--White-Printed-Straight-Kurta-715157925-1.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1600,
+      "Category": "Kurta"
+    },
+    {
+      "id": 14,
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/13426124/2021/3/26/749905d4-45af-4788-a613-e62e189aa96f1616750109449-Taavi-Men-Kurta-Sets-4111616750106920-1.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1700,
+      "Category": "Kurta"
+    },
+    {
+      "id": 15,
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/14928506/2022/3/11/5e850c94-b7eb-4de5-9c81-a45727286c6a1646979200182-House-of-Pataudi-Men-Maroon-Ethnic-Motifs-Embroidered-Thread-1.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1800,
+      "Category": "Kurta"
+    },
+    {
+      "id": 16,
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/13517956/2021/2/3/34b80d05-188e-474d-b750-7c80773bcc8c1612350194054-Manyavar-Men-Navy-Blue--Off-White-Self-Design-Kurta-with-Chu-1.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1900,
+      "Category": "Kurta"
+    },
+    {
+      "id": 17,
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/14923930/2021/7/24/ade5369f-2348-4fb3-a127-527e21d091081627101417169HangupMenCream-ColouredKurtiwithPyjamas1.jpg",
+      "title": "HELLO DESIGN",
+      "price": 2000,
+      "Category": "Kurta"
+    },
+    {
+      "id": 18,
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/9366013/2019/7/10/284c6c9d-1241-430f-a46a-50eaf937ca0d1562749711939-Anouk-Men-Kurta-Sets-2681562749709906-1.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1700,
+      "Category": "Kurta"
+    }
+      
+  ],
+  "womens":[
+    {
+      "id": 1,
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1376577/2022/4/18/d335c205-fb51-4e31-b709-b9475a3091c11650284973257RoadsterMenBlackGreyCheckedCasualSustainableShirt1.jpg",
+      "title": "HELLO DESIGN",
+      "price": 300,
+      "Category": "Shirts"
+    },
+    {
+      "id": 2,
+      "img":  "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/9951411/2019/8/5/fe1322b7-9e53-4b6e-8423-0a4f5a9e8b4b1565006161882-Roadster-Men-Shirts-8701565006159466-1.jpg",
+      "title": "HELLO DESIGN",
+      "price": 400,
+      "Category": "Jeans"
+    },
+    {
+      "id": 3,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 500,
+      "Category": "Kurta"
+    },
+    {
+      "id": 4,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 600,
+      "Category": "Shirts"
+    },
+    {
+      "id": 5,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 700,
+      "Category": "Jeans"
+    },
+    {
+      "id": 6,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 800,
+      "Category": "Kurta"
+    },
+    {
+      "id": 7,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 900,
+      "Category": "Shirts"
+    },
+    {
+      "id": 8,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1000,
+      "Category": "Jeans"
+    },
+    {
+      "id": 9,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1200,
+      "Category": "Kurta"
+    },
+    {
+      "id": 10,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1300,
+      "Category": "Shirts"
+    },
+    {
+      "id": 11,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1400,
+      "Category": "Jeans"
+    },
+    {
+      "id": 12,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1500,
+      "Category": "Kurta"
+    },
+    {
+      "id": 13,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1600,
+      "Category": "Shirts"
+    },
+    {
+      "id": 14,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1700,
+      "Category": "Jeans"
+    },
+    {
+      "id": 15,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1800,
+      "Category": "Kurta"
+    },
+    {
+      "id": 16,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1900,
+      "Category": "Shirts"
+    },
+    {
+      "id": 17,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 2000,
+      "Category": "Jeans"
+    },
+    {
+      "id": 18,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1700,
+      "Category": "Kurta"
+    }
+    
+  ], "Kids":[
+    {
+      "id": 1,
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1376577/2022/4/18/d335c205-fb51-4e31-b709-b9475a3091c11650284973257RoadsterMenBlackGreyCheckedCasualSustainableShirt1.jpg",
+      "title": "HELLO DESIGN",
+      "price": 300,
+      "Category": "Shirts"
+    },
+    {
+      "id": 2,
+      "img":  "https://assets.ajio.com/medias/sys_master/root/20210403/wR9I/606946fd7cdb8c1f1484121e/aks_couture_pink_embellished_a-line_dress_with_ruffled_panel.jpg",
+      "title": "HELLO DESIGN",
+      "price": 400,
+      "Category": "Jeans"
+    },
+    {
+      "id": 3,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 500,
+      "Category": "Kurta"
+    },
+    {
+      "id": 4,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 600,
+      "Category": "Shirts"
+    },
+    {
+      "id": 5,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 700,
+      "Category": "Jeans"
+    },
+    {
+      "id": 6,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 800,
+      "Category": "Kurta"
+    },
+    {
+      "id": 7,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 900,
+      "Category": "Shirts"
+    },
+    {
+      "id": 8,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1000,
+      "Category": "Jeans"
+    },
+    {
+      "id": 9,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1200,
+      "Category": "Kurta"
+    },
+    {
+      "id": 10,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1300,
+      "Category": "Shirts"
+    },
+    {
+      "id": 11,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1400,
+      "Category": "Jeans"
+    },
+    {
+      "id": 12,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1500,
+      "Category": "Kurta"
+    },
+    {
+      "id": 13,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1600,
+      "Category": "Shirts"
+    },
+    {
+      "id": 14,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1700,
+      "Category": "Jeans"
+    },
+    {
+      "id": 15,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1800,
+      "Category": "Kurta"
+    },
+    {
+      "id": 16,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1900,
+      "Category": "Shirts"
+    },
+    {
+      "id": 17,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 2000,
+      "Category": "Jeans"
+    },
+    {
+      "id": 18,
+      "img": "https: //assets.ajio.com/medias/sys_master/root/20210403/37g4/6068ca1aaeb269a9e338d88c/hello_design_pink_a-line_dress_with_ruffle_detail.jpg",
+      "title": "HELLO DESIGN",
+      "price": 1700,
+      "Category": "Kurta"
+    }
+    
+  ]
+
+
 }
