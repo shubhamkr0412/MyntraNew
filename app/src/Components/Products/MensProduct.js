@@ -1,5 +1,6 @@
 import React from "react";
 import "./MensPage.css";
+import { Link } from "react-router-dom";
 
 const MensProduct = ({ lists, addToCart }) => {
 
@@ -12,7 +13,8 @@ const MensProduct = ({ lists, addToCart }) => {
             <>
               <div className="inside" key={curr.id}>
               <div className="items">
-                 <img width={"60%"} src={curr.img}/>
+              <Link to ={`/mens/${curr.id}`}> <img width={"60%"} src={curr.img}/></Link>
+                
                 </div>
                 <div className="items">
                   <p>
