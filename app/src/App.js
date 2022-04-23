@@ -27,7 +27,7 @@ function App() {
     <div>
     <Routes>
    
-    <Route exact path="/" element={< MensPage />}/> 
+    <Route exact path="/" element={< HomePage />}/> 
     <Route exact path="/mens" element={< MensPage />}/> 
     <Route exact path="/womens" element={< WomensPage />}/> 
     <Route exact path="/kids" element={< KidsPage />}/> 
