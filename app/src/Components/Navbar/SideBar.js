@@ -18,10 +18,10 @@ const SideBar = ({getMensData}) => {
   // };
   
   return (
-    <Box bgcolor="skyblue"
+    <Box bgcolor="silver"
     flex={1}
     p={2}
-    sx={{width: "150px"}}
+    sx={{width: "150px" , marginLeft:"20px" , marginTop:"20px", padding: "10px",color:"black"}}
     > <List  >
         <ListItem key={0} disablePadding>
             <ListItemButton >
