@@ -11,7 +11,7 @@ export const KidsProduct = () => {
       getWomensData();
     }, [pages]);
     const getWomensData = () => {
-        fetch(`http://localhost:3005/womens?_page=${pages}&_limit=9`)
+        fetch(`https://myntradata.herokuapp.com/mens?_page=${pages}&_limit=9`)
           .then((d) => d.json())
           .then((res) => {
             setWomen(res);
