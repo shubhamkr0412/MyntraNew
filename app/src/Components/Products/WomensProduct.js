@@ -18,7 +18,7 @@ export const WomensProduct = ({ lists, addToCart }) => {
         <>
           <div className="inside" key={curr.id}>
           <div className="items">
-          <Link to ={`/mens/${curr.id}`}> <img width={"60%"} src={curr.img}/></Link>
+          <Link to ={`/womens/${curr.id}`}> <img width={"60%"} src={curr.img}/></Link>
             
             </div>
             <div className="items">

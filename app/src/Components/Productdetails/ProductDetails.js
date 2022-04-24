@@ -36,7 +36,15 @@ function ProductDetails() {
   const [data, setData] = useState([]);
  
   useEffect(() => {
-    fetch(` http://localhost:3001/mens/${id}`)
+    fetch(` https://myntradata.herokuapp.com/mens/${id}`)
+    .then((d) => d.json())
+    .then((res) => {
+      setData(res);
+
+    });
+  }, []);
+  useEffect(() => {
+    fetch(` https://myntradata.herokuapp.com/womens/${id}`)
     .then((d) => d.json())
     .then((res) => {
       setData(res);

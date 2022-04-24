@@ -1,7 +1,7 @@
 import React from 'react'
 import { WomensProduct } from './WomensProduct'
 import Navbar from '../Navbar/Navbar'
-import SideBar from '../Navbar/SideBar'
+import LeftBar from '../Navbar/LeftBar'
 import { useState } from 'react'
 import { useEffect } from 'react';
 import styled from '@emotion/styled';
@@ -26,21 +26,21 @@ const WomensPage = () => {
   const getMensData = (page = 1, Category = null, price = null) => {
     if (!Category && !price) {
       // console.log(page);
-      fetch(` http://localhost:3001/womens?_page=${page}&_limit=9`)
+      fetch(` https://myntradata.herokuapp.com/womens?_page=${page}&_limit=9`)
         .then((d) => d.json())
         .then((res) => {
           setLists(res);
         });
       // console.log('Called top');
     } else if (Category !== null) {
-      fetch(` http://localhost:3001/womens?Category=${Category}`)
+      fetch(` https://myntradata.herokuapp.com/womens?Category=${Category}`)
         .then((d) => d.json())
         .then((res) => {
           setLists(res);
         });
       // console.log('Called Category');
     } else if (price !== null) {
-      fetch(` http://localhost:3001/womens`)
+      fetch(` https://myntradata.herokuapp.com/womens`)
         .then((d) => d.json())
         .then((res) => {
           const x = res.filter(setRange);
@@ -78,7 +78,7 @@ const WomensPage = () => {
   return (
     <div><Navbar CartItems={cart} />
       <div className='griid'>
-        <div><SideBar getMensData={getMensData} /></div>
+        <div><LeftBar getMensData={getMensData} /></div>
         <div><WomensProduct lists={lists} addToCart={addToCart} /></div>
       </div>
       <div style={{ marginLeft: "550px" }}>

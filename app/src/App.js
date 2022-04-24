@@ -33,6 +33,7 @@ function App() {
     <Route exact path="/womens" element={< WomensPage />}/> 
     <Route exact path="/kids" element={< KidsPage />}/> 
     <Route  path="/mens/:id" element={< ProductDetails />}/> 
+    <Route  path="/womens/:id" element={< ProductDetails />}/> 
     </Routes>
     </div>
   );
