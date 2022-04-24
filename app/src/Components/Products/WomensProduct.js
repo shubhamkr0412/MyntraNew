@@ -1,33 +1,26 @@
 import React from "react";
 
 import "./MensPage.css";
-import { useEffect } from "react";
-import { useState } from "react";
+
+import { Link } from "react-router-dom";
 
 
     
   
    
 
-export const WomensProduct = () => {
-    const [women, setWomen] = useState([]);
-    const [pages, setPages] = useState(1);
-    useEffect(() => {
-      getWomensData();
-    }, [pages]);
-    const getWomensData = () => {
-        fetch(`https://mmyntraclone.herokuapp.com/womens?_page=${pages}&_limit=9`)
-          .then((d) => d.json())
-          .then((res) => {
-            setWomen(res);
-          });
-      };
+export const WomensProduct = ({ lists, addToCart }) => {
+   
   return (
-    <div> <div className="containerr">
-    {women.map((curr) => {
+    <div>  <div className="containerr">
+    {lists.map((curr) => {
       return (
         <>
           <div className="inside" key={curr.id}>
+          <div className="items">
+          <Link to ={`/mens/${curr.id}`}> <img width={"60%"} src={curr.img}/></Link>
+            
+            </div>
             <div className="items">
               <p>
                 <span>Name:</span>
@@ -47,15 +40,17 @@ export const WomensProduct = () => {
                 {curr.price}
               </p>
             </div>
+            <div className="items">
+              {" "}
+              <p>
+                
+                <button onClick={() => addToCart(curr)}>Add to cart</button>
+              </p>
+            </div>
           </div>
         </>
       );
     })}
-  </div>
-  <div style={{ marginLeft: "550px" }}>
-    {" "}
-    <button disabled={pages===1} onClick={()=>setPages(pages-1)}>Prev</button>
-    <button disabled={pages===2} onClick={()=>setPages(pages+1)}>Next</button>
   </div></div>
   );
 
