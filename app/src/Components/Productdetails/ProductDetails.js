@@ -34,6 +34,7 @@ const DIV = styled("div")({
 function ProductDetails() {
   const { id } = useParams();
   const [data, setData] = useState([]);
+  
  
   useEffect(() => {
     fetch(` https://myntradata.herokuapp.com/mens/${id}`)
@@ -43,14 +44,7 @@ function ProductDetails() {
 
     });
   }, []);
-  useEffect(() => {
-    fetch(` https://myntradata.herokuapp.com/womens/${id}`)
-    .then((d) => d.json())
-    .then((res) => {
-      setData(res);
-
-    });
-  }, []);
+ 
   
 console.log(data);
   return (

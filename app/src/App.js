@@ -18,6 +18,7 @@ import WomensPage from './Components/Products/WomensPage';
 import KidsPage from './Components/Products/KidsPage';
 import Navbar from './Components/Navbar/Navbar';
 import ProductDetails from './Components/Productdetails/ProductDetails';
+import ProdDetails from './Components/Productdetails/ProdDetails';
 
 
 function App() {
@@ -33,7 +34,7 @@ function App() {
     <Route exact path="/womens" element={< WomensPage />}/> 
     <Route exact path="/kids" element={< KidsPage />}/> 
     <Route  path="/mens/:id" element={< ProductDetails />}/> 
-    <Route  path="/womens/:id" element={< ProductDetails />}/> 
+    <Route  path="/womens/:id" element={< ProdDetails />}/> 
     </Routes>
     </div>
   );
