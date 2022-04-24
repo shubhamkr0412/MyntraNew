@@ -3,13 +3,14 @@ import React from "react";
 import "./MensPage.css";
 import { useEffect } from "react";
 import { useState } from "react";
+import { Link } from "react-router-dom";
 
 export const KidsProduct = () => {
     const [women, setWomen] = useState([]);
     const [pages, setPages] = useState(1);
     useEffect(() => {
       getWomensData();
-    }, [pages]);
+    }, []);
     const getWomensData = () => {
         fetch(`https://myntradata.herokuapp.com/mens?_page=${pages}&_limit=9`)
           .then((d) => d.json())
@@ -23,6 +24,10 @@ export const KidsProduct = () => {
       return (
         <>
           <div className="inside" key={curr.id}>
+          <div className="items">
+              <Link to ={`/mens/${curr.id}`}> <img width={"60%"} src={curr.img}/></Link>
+                
+                </div>
             <div className="items">
               <p>
                 <span>Name:</span>
