@@ -66,7 +66,7 @@ console.log(data);
           >
             {data.title}
           </p>
-          <p>(100ml)</p>
+          
           <br />
           <DIV>
             <img
@@ -75,7 +75,7 @@ console.log(data);
               alt=""
             />
             <p>4/5</p>
-            <p> ratings & 84 reviews</p>
+            <p> Ratings &  Reviews</p>
             <p>64 Q&As</p>
           </DIV>
           <br />
@@ -97,8 +97,7 @@ console.log(data);
               marginTop: "30px",
             }}
           >
-            Shop worth INR 1200 and above and get a free Nykaa Cosmetics Nail
-            Paint. Terms & conditions apply. Offer valid until stock lasts.
+            Shop worth INR 5000 and above and get a free gift voucher . Terms & conditions apply. Offer valid until stock lasts.
           </p>
 
           <br />
@@ -133,7 +132,7 @@ console.log(data);
           >
             <div>100% Genuine Products</div>
             <div>Easy Return Policy</div>
-            <div>Sold by :NYKAA E RETAIL P...</div>
+            <div>Sold by Myntra  </div>
           </div>
         </DIV4>
       </DIV1>
